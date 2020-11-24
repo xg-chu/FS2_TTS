@@ -1,0 +1,2 @@
+from tensorflow_tts.configs.fastspeech2 import FastSpeech2_Config
+from tensorflow_tts.configs.mb_melgan import MBMelGANGenerator_Config

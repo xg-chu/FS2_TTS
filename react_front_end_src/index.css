@@ -1,0 +1,37 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+}
+
+.maintitel-div {
+    font: 20px "Century Gothic", Futura, sans-serif;
+}
+
+.titel-div {
+    width: 100%;
+}
+
+.textarea-div {
+    width: 400px;
+}
+
+.table-button {
+    margin-top: 3px;
+    width: 400px;
+    text-align:center;
+}
+
+.progress-audio {
+    margin-top: 100px;
+    width: 400px;
+    text-align:center;
+}
+
+.buttons {
+    width: 100px;
+}

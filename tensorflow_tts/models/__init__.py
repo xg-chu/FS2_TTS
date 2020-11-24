@@ -1,0 +1,2 @@
+from tensorflow_tts.models.fastspeech2 import FastSpeech2
+from tensorflow_tts.models.mb_melgan import MBMelGANGenerator
