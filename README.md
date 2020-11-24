@@ -23,9 +23,8 @@ TTS system base on FastSpeech2 and MelGAN.
     npm install @material-ui/core
     npm install --save react-router-dom
     ```
-    and add 
+    and add the following codes to "scripts" in 'package.json' in 'react_front_end'.
     ```
     "prebuild": "rm ../templates/index.html && rm -rf ../static",
     "postbuild": "mv build/index.html ../templates/ && mv build/static ../static && mkdir ../static/tf_outputs",
     ```
-    to "scripts" in 'package.json' in react_front_end.
