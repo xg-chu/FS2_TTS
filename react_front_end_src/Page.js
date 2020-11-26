@@ -14,7 +14,6 @@ class Page extends React.Component{
         return (
         <div className="maintitel-div">
             <p><font size="8">Text to Speech System</font></p>
-            <p>based on React & Tensorflow.js by Purkialo</p>
         </div>
         );
     }

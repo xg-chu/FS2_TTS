@@ -38,4 +38,4 @@ class Synthesizer():
 if __name__ == "__main__":
     model = Synthesizer()
     model.load_model()
-    model.synthesis("前方危险，立即回转", 'new.wav')
+    model.synthesis("请立即抬升，抬升到海拔1134千米", 'new.wav')
